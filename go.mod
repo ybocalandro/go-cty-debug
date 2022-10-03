@@ -1,4 +1,4 @@
-module ggithub.com/ybocalandro/go-cty-debug
+module github.com/ybocalandro/go-cty-debug
 
 go 1.18
 
