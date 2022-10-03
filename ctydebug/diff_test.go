@@ -3,7 +3,7 @@ package ctydebug_test
 import (
 	"fmt"
 
-	"github.com/zclconf/go-cty-debug/ctydebug"
+	"ggithub.com/ybocalandro/go-cty-debug/ctydebug"
 	"github.com/zclconf/go-cty/cty"
 )
 
